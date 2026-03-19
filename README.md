@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 
+> 임베디드 시스템 개발자 지망생
 
-<!--
-**1213ES/1213ES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 기간 | 활동 / 경력 | 주요 업무 |
+|------|------------|----------|
+| 2026.12 ~ 2026.07 | 대한상공회의소 | Intel 9기 |
+| 2022.03 ~ 2026.08 | 배재대학교 | 전자공학과 졸업 |
+
+---
+
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Projects
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: gimeunseon410@gmail.com
