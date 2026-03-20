@@ -22,14 +22,16 @@
 
 ## 💼 Projects
 
-1. [Smart Safety System](https://github.com/1213ES/smart-safety-system-AIOT-)
+<h3>
+   1. [Smart Safety System](https://github.com/1213ES/smart-safety-system-AIOT-)
    - 스마트 안전관리 시스템 (AIOT 기반)
+</h3>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1213ES&show_icons=true&theme=dark)
 
 ---
 
