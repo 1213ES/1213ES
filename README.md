@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1213ES&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: gimeunseon410@gmail.com
