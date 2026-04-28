@@ -25,7 +25,8 @@
 1. [Smart Safety System](https://github.com/1213ES/smart-safety-system-AIOT-)
    - 스마트 안전관리 시스템 (AIOT 기반)
 
-
+2. [Art Museum Guide Robot](https://github.com/1213ES/Guide-Robot---ROS2)
+   - 미술관 안내 로봇 (ROS2 기반)
 
 
 ---
